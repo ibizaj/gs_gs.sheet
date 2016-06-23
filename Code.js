@@ -20,9 +20,4 @@ function Create_New_Week() {
     
     }
   }
-  
-  //for (var i = 0; i < data.length; i++) {
-    //Logger.log(data[0][0]);
-    //Logger.log(data[1][0]);
-  //}
 }
